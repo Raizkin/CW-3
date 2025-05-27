@@ -129,18 +129,18 @@
 //     }
 // }
 
-const friends = ["artem", "anton", "david", "oleksander", "timofii", "yaroslav", "daria", "katya"]
-friends.push("Yura","nazar")
-friends.pop()
-friends.pop()
-friends.pop()
-friends.pop()
-friends.pop()
-friends.pop()
-friends.pop()
-friends.pop()
-friends.pop()
-friends.unshift("katya","dasha")
-friends.shift()
-friends.shift()
-console.log(friends);
+// const friends = ["artem", "anton", "david", "oleksander", "timofii", "yaroslav", "daria", "katya"]
+// friends.push("Yura","nazar")
+// friends.pop()
+// friends.pop()
+// friends.pop()
+// friends.pop()
+// friends.pop()
+// friends.pop()
+// friends.pop()
+// friends.pop()
+// friends.pop()
+// friends.unshift("katya","dasha")
+// friends.shift()
+// friends.shift()
+// console.log(friends);

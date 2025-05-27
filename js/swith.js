@@ -71,7 +71,7 @@
 // switch (option) {
 //     case 1:
 //         message = "самовивіз";
-//         break
+//пфьуьщву          break
 //     case 1:
 //         message = "кур`єр";
 //         break
