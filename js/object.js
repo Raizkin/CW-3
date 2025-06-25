@@ -147,5 +147,64 @@
 
 
 // console.log(user.showName());
-// user.changeLocation("Dnipro", "Doslidna", "9b", 18) 
+// user.changeLocation("Dnipro", "Doslidna", "9b", 18)
 // console.log(user);
+
+
+// Написати функцію яка буде повертати масив всіх імен друзів
+
+
+// const friends = [
+//   { name: "Mango", online: false },
+//   { name: "Kiwi", online: true },
+//   { name: "Poly", online: false },
+//   { name: "Ajax", online: false },
+// ];
+
+
+// const findName = (array) => {
+//     const newArrey = [];
+
+//     for (const item of array) {
+//         newArrey.push (item.name)
+//     }
+    
+//     return newArrey
+// }
+
+// console.log(findName(friends));
+
+
+
+
+// Напиши скрипт, який, для об'єкта user, послідовно:
+
+
+
+// додає поле mood зі значенням 'happy'
+// замінює значення hobby на 'skydiving'
+// замінює значення premium на false
+// виводить вміст об'єкта user в форматі ключ:значення використовуючи Object.keys() і for...of
+
+
+// const user = {
+//     name: "Artem",
+//     age: 13,
+//     city: "Kijv",
+//     hobby: "football",
+//     premium: true,
+// }
+
+// user.mood = "happy";
+// user.hobby = "skydiving";
+// user.premium = false;
+
+// const key = Object.keys(user)
+
+// for (const item of key) {
+//     console.log(`Ваш ключ ${item}: -- ${user[item]}`);
+    
+// }
+
+// console.log(user);
+// console.log(key);
